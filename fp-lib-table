@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Library.pretty")(options "")(descr ""))
+  (lib (name "MX_Hybrid_Library-SJG")(type "KiCad")(uri "${KIPRJMOD}/MX_Hybrid_Library-SJG.pretty")(options "")(descr ""))
+)
